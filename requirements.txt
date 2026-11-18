@@ -1,0 +1,5 @@
+Pillow>=10.0
+rawpy>=0.21
+pillow-heif>=0.16
+pyinstaller>=6.0
+tkinterdnd2>=0.3  # optional: drag and drop files onto the window
